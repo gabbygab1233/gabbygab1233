@@ -3,7 +3,7 @@
 
 [![HitCount](http://hits.dwyl.com/gabbygab1233/gabbygab1233.svg)](http://hits.dwyl.com/gabbygab1233/gabbygab1233) [![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://github.com/gabbygab1233/)  
 
-<a href="https://www.kaggle.com/gabbygab/"><img src="https://img.shields.io/badge/gabbygab-blue?style=flat-square&logo=Kaggle&logoColor=white" alt="HTML tutorial" style="width:100px;height:100px;"></a> <a href="https://www.linkedin.com/in/gabriel-joshua-miguel/"><img src="https://img.shields.io/badge/gabrieljoshuamiguel-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="HTML tutorial" style="width:42px;height:42px;"></a>  <img src="https://img.shields.io/badge/-gabbygabmiguel@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gabbygabmiguel@gmail.com">
+<a href="https://www.kaggle.com/gabbygab/"><img src="https://img.shields.io/badge/gabbygab-blue?style=flat-square&logo=Kaggle&logoColor=white" alt="kaggle badge" style="width:42px;height:42px;"></a> <a href="https://www.linkedin.com/in/gabriel-joshua-miguel/"><img src="https://img.shields.io/badge/gabrieljoshuamiguel-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="linked badge" style="width:42px;height:42px;"></a>  <img src="https://img.shields.io/badge/-gabbygabmiguel@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gabbygabmiguel@gmail.com">
 # Kumusta 👋
 I am Gab, I have been doing web scraping, data cleaning and creating deep/machine learning models to predict and to analyze a data for the past 1 year by joining online competition and project works:
 
