@@ -1,10 +1,11 @@
-# 
+
+## Kumusta 👋
 
 [![HitCount](http://hits.dwyl.com/gabbygab1233/gabbygab1233.svg)](http://hits.dwyl.com/gabbygab1233/gabbygab1233) [![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://github.com/gabbygab1233/)  
 
 <img src="https://img.shields.io/badge/Kaggle-blue?style=flat-square&logo=Kaggle&logoColor=white&link=https://www.kaggle.com/gabbygab/"> <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabriel-joshua-miguel/"> <img src="https://img.shields.io/badge/-gabbygabmiguel@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gabbygabmiguel@gmail.com">
 
-## Kumusta 👋
+#
 
 Here are some ideas to get you started:
 
