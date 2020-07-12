@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![HitCount](http://hits.dwyl.com/gabbygab1233/gabbygab1233.svg)](http://hits.dwyl.com/gabbygab1233/gabbygab1233)
+[![HitCount](http://hits.dwyl.com/gabbygab1233/gabbygab1233.svg)](http://hits.dwyl.com/gabbygab1233/gabbygab1233) [![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://github.com/gabbygab1233/)
 
 
 <!--
