@@ -8,6 +8,7 @@
 I am Gab, I have been doing web scraping, data cleaning and creating deep/machine learning models to predict and to analyze a data for the past 1 year by joining online competition and project works:
 
 - 🔭 I’m currently working on COVID19 Barangay Tracker ( Barvid19 ) https://barvid19-tracker.herokuapp.com
+     - https://pcieerd.dost.gov.ph/news/latest-news/378-ph-app-developers-fight-covid-19-with-online-innovations
 - 🌱 I’m currently learning Open Source Intelligence.
 - 👯 I’m looking to collaborate on project based on Deep/Machine Learning, Natural Language Processing, and Computer Vision.
 
