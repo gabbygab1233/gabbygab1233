@@ -1,7 +1,5 @@
 
-
-
-[![HitCount](http://hits.dwyl.com/gabbygab1233/gabbygab1233.svg)](http://hits.dwyl.com/gabbygab1233/gabbygab1233) [![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://github.com/gabbygab1233/)  
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%23640707&title_bg=%23000000&icon=apachecassandra.svg&icon_color=%23D91A1A&title=Hits&edge_flat=false)](https://hits.seeyoufarm.com) [![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://github.com/gabbygab1233/)  
 
 <a href="https://www.kaggle.com/gabbygab/"><img src="https://img.shields.io/badge/Kaggle-blue?style=flat-square&logo=Kaggle&logoColor=white" alt="kaggle badge" style="width:42px;height:42px;"></a> <a href="https://www.linkedin.com/in/gabriel-joshua-miguel/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="linked badge" style="width:42px;height:42px;"></a>  <img src="https://img.shields.io/badge/-gabbygabmiguel@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gabbygabmiguel@gmail.com">
 # Kumusta 👋
